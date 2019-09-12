@@ -24,5 +24,5 @@ O que é o Projeto
 ## Arquitetura:
 - Arquitetura completa com preocupações de separação de responsabilidade
 
-## About:
-O projeto JokeFH foi desenvol
+## Sobre:
+O projeto JokeFH foi desenvolvido por Alexandre Amorim
