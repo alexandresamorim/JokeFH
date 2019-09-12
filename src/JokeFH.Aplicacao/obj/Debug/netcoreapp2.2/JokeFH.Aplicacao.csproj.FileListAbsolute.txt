@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\bin\Debug\netcoreapp2.2\JokeFH.Aplicacao.deps.json
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\bin\Debug\netcoreapp2.2\JokeFH.Aplicacao.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\obj\Debug\netcoreapp2.2\JokeFH.Aplicacao.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\obj\Debug\netcoreapp2.2\JokeFH.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\obj\Debug\netcoreapp2.2\JokeFH.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\obj\Debug\netcoreapp2.2\JokeFH.Aplicacao.AssemblyInfo.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\bin\Debug\netcoreapp2.2\JokeFH.Aplicacao.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\bin\Debug\netcoreapp2.2\JokeFH.Dominio.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\bin\Debug\netcoreapp2.2\JokeFH.Dominio.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\obj\Debug\netcoreapp2.2\JokeFH.Aplicacao.csproj.CopyComplete
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\obj\Debug\netcoreapp2.2\JokeFH.Aplicacao.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Aplicacao\obj\Debug\netcoreapp2.2\JokeFH.Aplicacao.pdb

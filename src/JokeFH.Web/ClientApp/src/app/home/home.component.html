@@ -1,0 +1,68 @@
+
+<div class="container">
+    <h1>Olá, seja bem vindo {{jogador}}!</h1>
+    <p>Seja bem vindo ao jogo Jokenpon, Escolha entre Pedra, Papel e Tesoura e divirta-se.</p>
+    
+    <hr/>
+
+    <div class="row">
+        <div class="col-md-6">
+            <p>No jogo</p>
+            <table class="table">
+                <tr>
+                    <th class="text-center" style="width: 33.33%">{{jogador}} <span class="badge badge-light">{{pontuacaoJogador}}</span></th>
+                    <td style="width: 33.33%">&nbsp;</td>
+                    <th class="text-center" style="width: 33.33%">Computador <span class="badge badge-light">{{pontuacaoComputador}}</span></th>
+                </tr>
+                <tr>
+                    <td class="text-center">{{cartaJogador}}</td>
+                    <td class="text-center"> X </td>
+                    <td class="text-center">{{cartaComputador}}</td>
+                </tr>
+                <tr class="table-light">
+                    <th class="text-center"><button type="button" class="btn btn-primary  btn-lg btn-block" [disabled]="patidas == partidaFinal" (click)="getResultado(1)">Pedra</button></th>
+                    <td class="text-center"><button type="button" class="btn btn-secondary  btn-lg btn-block" [disabled]="patidas == partidaFinal" (click)="getResultado(2)">Papel</button></td>
+                    <td class="text-center"><button type="button" class="btn btn-success  btn-lg btn-block" [disabled]="patidas == partidaFinal" (click)="getResultado(3)">Tesoura</button></td>
+                </tr>
+                <tr>
+                    <th class="table-success">Vencedor:</th>
+                    <td>{{vencedorPartida}}</td>
+                    <td><button type="button" class="btn btn-warning btn-lg btn-block" (click)="reiniciarJogo()">Reiniciar</button></td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-md-6">
+            <p>Histórico de partidas</p>
+            <table class='table' *ngIf="resultadosJogo">
+                <thead>
+                <tr>
+                    <th>Jogador</th>
+                    <th>Carta</th>
+                    <th>X</th>
+                    <th>Computador</th>
+                    <th>Carta</th>
+                    <th>Vencedor</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr *ngFor="let historicoJogo of resultadosJogo">
+                    <td class="table-primary">{{ historicoJogo.Jogador }}</td>
+                    <td class="table-primary">{{ historicoJogo.CartaJogador }}</td>
+                    <td>X</td>
+                    <td class="table-danger">{{ historicoJogo.Computador }}</td>
+                    <td class="table-danger">{{ historicoJogo.CartaComputador }}</td>
+                    <td class="table-success">{{ historicoJogo.Vencedor }}</td>
+                </tr>
+                </tbody>
+            </table>
+            <div class="alert alert-primary" role="alert">
+                Falta {{partidaFinal-patidas}} para o final.
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+
+    </div>
+
+</div>

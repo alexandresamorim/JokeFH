@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\bin\Debug\netcoreapp2.2\JokeFH.Infra.Data.deps.json
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\bin\Debug\netcoreapp2.2\JokeFH.Infra.Data.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\obj\Debug\netcoreapp2.2\JokeFH.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\obj\Debug\netcoreapp2.2\JokeFH.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\obj\Debug\netcoreapp2.2\JokeFH.Infra.Data.AssemblyInfo.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\obj\Debug\netcoreapp2.2\JokeFH.Infra.Data.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\bin\Debug\netcoreapp2.2\JokeFH.Infra.Data.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\bin\Debug\netcoreapp2.2\JokeFH.Dominio.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\bin\Debug\netcoreapp2.2\JokeFH.Dominio.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\obj\Debug\netcoreapp2.2\JokeFH.Infra.Data.csproj.CopyComplete
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\obj\Debug\netcoreapp2.2\JokeFH.Infra.Data.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Infra.Data\obj\Debug\netcoreapp2.2\JokeFH.Infra.Data.pdb

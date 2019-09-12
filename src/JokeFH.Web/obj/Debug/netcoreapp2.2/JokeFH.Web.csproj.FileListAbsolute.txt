@@ -1,0 +1,32 @@
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.RazorAssemblyInfo.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.RazorAssemblyInfo.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.AssemblyInfo.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.RazorCoreGenerate.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.RazorTargetAssemblyInfo.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.RazorTargetAssemblyInfo.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.csproj.CopyComplete
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\obj\Debug\netcoreapp2.2\JokeFH.Web.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Aplicacao.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Dominio.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Infra.Data.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Infra.IoC.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Aplicacao.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Infra.IoC.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Dominio.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Web\bin\Debug\netcoreapp2.2\JokeFH.Infra.Data.pdb

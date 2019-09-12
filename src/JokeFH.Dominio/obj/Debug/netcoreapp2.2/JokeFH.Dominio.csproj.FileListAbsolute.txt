@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\bin\Debug\netcoreapp2.2\JokeFH.Dominio.deps.json
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\bin\Debug\netcoreapp2.2\JokeFH.Dominio.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\bin\Debug\netcoreapp2.2\JokeFH.Dominio.pdb
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\obj\Debug\netcoreapp2.2\JokeFH.Dominio.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\obj\Debug\netcoreapp2.2\JokeFH.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\obj\Debug\netcoreapp2.2\JokeFH.Dominio.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\obj\Debug\netcoreapp2.2\JokeFH.Dominio.AssemblyInfo.cs
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\obj\Debug\netcoreapp2.2\JokeFH.Dominio.dll
+C:\Users\alexa\source\repos\JokeFH\src\JokeFH.Dominio\obj\Debug\netcoreapp2.2\JokeFH.Dominio.pdb

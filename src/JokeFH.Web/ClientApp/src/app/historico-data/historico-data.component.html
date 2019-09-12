@@ -1,0 +1,19 @@
+<h1>Histórico de partidas</h1>
+
+
+<p *ngIf="!historicos"><em>Carregando...</em></p>
+
+<table class='table' *ngIf="historicos">
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Vendedor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let historico of historicos">
+        <td>{{ historico.dataHora | date: 'dd/MM/yyyy hh:mm:ss'  }}</td>
+        <td>{{ historico.vencedor }}</td>
+    </tr>
+  </tbody>
+</table>
